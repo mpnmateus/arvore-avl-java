@@ -1,0 +1,13 @@
+# Saída de compilação
+/bin/
+/lib/
+/*.class
+/src/*.class
+/src/**/*.class
+
+# VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
